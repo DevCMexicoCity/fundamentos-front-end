@@ -28,3 +28,7 @@
 * Assets.
 * Material del curso.
 * Editor de codigo.
+
+
+-------------------
+ Made with 💗 in Mexico City by Developer Circles. 
